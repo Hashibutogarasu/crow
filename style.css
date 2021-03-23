@@ -186,7 +186,7 @@ nav {
 	background-image: url(./screenshot.png);
 }
 #photo02 {
-	background-image: url(./screenshot2.png);
+	background-image: url(./screenshot2.png) no-repeat;
 }
 #photo03 {
 	background-image: url(./screenshot2.png);
