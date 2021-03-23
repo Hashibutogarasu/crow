@@ -186,10 +186,10 @@ nav {
 	background-image: url(./screenshot.png);
 }
 #photo02 {
-	background-image: url(./screenshot2.png): no-repeat;
+	background-image: url(./screenshot2.png);
 }
 #photo03 {
-	background-image: url(./screenshot2.png);
+	background-image: url(./screenshot3.png);
 }
 .right {
 	float: right;
