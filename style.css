@@ -183,13 +183,13 @@ nav {
 	background-size: cover;
 }
 #photo01 {
-	background-image: url(./thinking.png);
+	background-image: url(./bg.png);
 }
 #photo02 {
-	background-image: url(./thinking.png);
+	background-image: url(./bg.png);
 }
 #photo03 {
-	background-image: url(./thinking.png);
+	background-image: url(./bg.png);
 }
 .right {
 	float: right;
